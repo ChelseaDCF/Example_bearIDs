@@ -104,7 +104,7 @@ IMAGE_TYPES = ["png", "jpg"]
 
 EXTERNAL_DEPENDENCIES = {
     "Example_Trail_1.pkl": {
-        "url": "https://drive.google.com/file/d/1TYC38aI_B9Vo8gJVZ6bpPN9Hx_9uiKKt/view?usp=share_link",
+        "url": "https://www.dropbox.com/s/lan69uo05x6u7f7/Example_Trail_1.pkl?dl=1",
         "size": 179195904
     }
 }
