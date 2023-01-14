@@ -103,7 +103,7 @@ def download_file(file_path):
 IMAGE_TYPES = ["png", "jpg"]
 
 EXTERNAL_DEPENDENCIES = {
-    "Example_Trail_1.pkl": {
+    "BearID.pkl": {
         "url": "https://www.dropbox.com/s/u1uv4subj0da1wv/BearID.pkl?dl=1",
         "size": 179195904
     }
