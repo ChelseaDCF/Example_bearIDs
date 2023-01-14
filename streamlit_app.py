@@ -56,7 +56,7 @@ def load_model():
     plt = platform.system()
 
     if plt == 'Linux' or plt == 'Darwin': pathlib.WindowsPath = pathlib.PosixPath
-    inf_model = load_learner('Example_Trail_1.pkl', cpu=True)
+    inf_model = load_learner('BearID.pkl', cpu=True)
 
     return inf_model
 
@@ -104,7 +104,7 @@ IMAGE_TYPES = ["png", "jpg"]
 
 EXTERNAL_DEPENDENCIES = {
     "Example_Trail_1.pkl": {
-        "url": "https://www.dropbox.com/s/lan69uo05x6u7f7/Example_Trail_1.pkl?dl=1",
+        "url": "https://www.dropbox.com/s/u1uv4subj0da1wv/BearID.pkl?dl=1",
         "size": 179195904
     }
 }
