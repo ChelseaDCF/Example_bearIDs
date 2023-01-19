@@ -105,7 +105,7 @@ IMAGE_TYPES = ["png", "jpg"]
 EXTERNAL_DEPENDENCIES = {
     "BearID.pkl": {
         "url": "https://www.dropbox.com/s/u1uv4subj0da1wv/BearID.pkl?dl=1",
-        "size": 179195904
+        "size": 179194463
     }
 }
 
